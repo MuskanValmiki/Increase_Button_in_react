@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App{
+  margin: auto;
+  width: 200px;
+  background-color: purple;
+  color: white;
+}
